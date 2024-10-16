@@ -1,0 +1,2 @@
+export const GET_PROVIDER_LIST = "GET_PROVIDER_LIST";
+export const GET_PROVIDER = "GET_PROVIDER";

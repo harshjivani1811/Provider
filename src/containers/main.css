@@ -1,0 +1,44 @@
+.as-provider-container {
+    background-color: rgba(6, 46, 157, 0.678);
+    color: whitesmoke;
+    width: 100%;
+    min-height: 100vh;
+}
+
+.ant-drawer-title {
+    text-align: center;
+}
+
+.ant-drawer .ant-drawer-header {
+    background: rgba(6, 46, 157, 0.678);
+    border-bottom: none;
+}
+
+.ant-drawer .ant-drawer-header .ant-drawer-header-title .ant-drawer-title {
+    color: whitesmoke;
+}
+
+.ant-drawer-body {
+    scrollbar-width: none;
+}
+
+.ant-drawer-body {
+    background: rgba(6, 46, 157, 0.678);
+    /* overflow: hidden; */
+    color: whitesmoke;
+}
+
+.as-provider-info-heading {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+}
+
+.as-provider-info-text {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+}
+
+.as-provider-options {
+    background-color: rgba(0, 0, 0, 0.265);
+    border-radius: 5px;
+}
